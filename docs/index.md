@@ -90,6 +90,8 @@ Basándonos en el análisis de datos masivos de portales de empleo especializado
     **Recursos**   
     - [¿Será el trabajo de analista de datos reemplazado por IA?](https://www.youtube.com/watch?v=upBfy54-jmI)
 
+---
+
 ## 3. Perfiles Emergentes y Futuro del Trabajo
 
 El mercado laboral español para 2026-2030 premiará la especialización extrema combinada con habilidades híbridas. A continuación se detallan los roles que, según *LinkedIn* y *DigitalES*, liderarán la demanda en España.
@@ -175,7 +177,7 @@ Alicante se está consolidando como un polo tecnológico de referencia en Españ
 - [Torre Juana OST](https://ost.torrejuana.es/hub-ia/): Espacio especializado en IA que acoge startups como 1MillionBot (partner de NVIDIA) y Lucentia Lab, centradas en procesamiento de lenguaje natural y Big Data
 
 
-## Enlace de interés
+## Enlaces de interés
 
 - [TodoFP.es](https://www.todofp.es/): Portal oficial con información sobre ciclos formativos de FP en España.
 
