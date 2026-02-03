@@ -1,0 +1,19 @@
+site_name: IES Cabo Huertas. Jornadas Culturales 2025-2026
+hide:
+  - nav
+theme:
+  name: material
+  features:
+    - toc.integrate
+nav:
+  - Orientación Vocacional. Perfiles Digitales e IA: index.md
+markdown_extensions:
+  - admonition
+  - toc:
+      toc_depth: 2-6  # Indica que empiece en el nivel 2 y llegue hasta el 6
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.superfences
+extra_css:
+  - stylesheets/extra.css

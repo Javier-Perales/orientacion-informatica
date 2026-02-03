@@ -1,0 +1,2 @@
+* **Fundación Telefónica:** Su herramienta interactiva analiza miles de ofertas de empleo reales para mostrarte qué se pide hoy en Alicante y en toda España.
+    * [Mapa del Empleo en tiempo real](https://orientacion-laboral.fundaciontelefonica.com/mapa-del-empleo/)
